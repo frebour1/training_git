@@ -1,0 +1,2 @@
+Fichier.txt utilisé pour l'excercice sur GIT&GITHUB
+

@@ -1,0 +1,2 @@
+Fichier file2.txt utilisé pour execercie GIT
+
